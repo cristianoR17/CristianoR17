@@ -1,6 +1,5 @@
-# Cristiano Gonçalves de Oliveira 👋
 
-<h1 align="center">🚀 Vitor | DevOps & Cloud Engineer</h1>
+<h1 align="center">🚀 Cristiano Gonçalves de Oliveira  | DevOps & Cloud Engineer</h1>
 
 <p align="center">
   Especialista em Infraestrutura • Cloud • Automação • Telecom
@@ -70,11 +69,14 @@ de ambientes on-premises para a nuvem.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Atividade no GitHub</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
 </p>
 
 ---

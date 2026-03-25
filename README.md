@@ -71,6 +71,7 @@ de ambientes on-premises para a nuvem.
 📧 Email: flanaruto@gmail.com
 </p>
 
+---
 
 ### 📊 Estatísticas
 

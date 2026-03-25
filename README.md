@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cristiano Gonçalves de Oliveira 👋
+# Cristiano Gonçalves de Oliveira 👋
 
 **`Especialista em infraestrutura`**
 

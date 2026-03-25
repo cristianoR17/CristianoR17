@@ -29,26 +29,21 @@ de ambientes on-premises para a nuvem.
 <h2>⚡ Tech Stack</h2>
 
 <p align="left">
-  <!-- Cloud -->
   <img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   <img alt="GCP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
   <img alt="Oracle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 
-  <!-- Containers -->
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 
-  <!-- IaC -->
   <img alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
   <img alt="Ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
 
-  <!-- Dev -->
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-  <!-- Tools -->
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
@@ -69,15 +64,61 @@ de ambientes on-premises para a nuvem.
 
 ---
 
-<h2>📊 Atividade no GitHub</h2>
+<h2>📊 Estatísticas</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-</p>
+  <!-- CARD ESQUERDA -->
+  <div style="flex:1; min-width:300px; background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px; color:#c9d1d9;">
+    
+    <h3 style="color:#58a6ff;">GitHub Stats</h3>
+
+    <p>⭐ Total de estrelas: 958</p>
+    <p>🟢 Total de commits: 290</p>
+    <p>🔁 Total de PRs: 0</p>
+    <p>⚠️ Total de issues: 0</p>
+
+    <div style="
+      width:100px;
+      height:100px;
+      border-radius:50%;
+      border:8px solid #30363d;
+      border-top:8px solid #58a6ff;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      margin-top:20px;
+      font-size:24px;
+      font-weight:bold;
+      color:#58a6ff;
+    ">
+      B
+    </div>
+
+  </div>
+
+  <!-- CARD DIREITA -->
+  <div style="flex:1; min-width:300px; background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px; color:#c9d1d9;">
+    
+    <h3 style="color:#58a6ff;">Tecnologias</h3>
+
+    <div style="display:flex; height:10px; border-radius:5px; overflow:hidden; margin-bottom:15px;">
+      <div style="width:56%; background:#e34c26;"></div>
+      <div style="width:22%; background:#563d7c;"></div>
+      <div style="width:9%; background:#4F5D95;"></div>
+      <div style="width:6%; background:#f1e05a;"></div>
+      <div style="width:4%; background:#3178c6;"></div>
+    </div>
+
+    <p>🔴 HTML 56%</p>
+    <p>🟣 CSS 22%</p>
+    <p>🔵 PHP 9%</p>
+    <p>🟡 JavaScript 6%</p>
+    <p>🔷 TypeScript 4%</p>
+
+  </div>
+
+</div>
 
 ---
 

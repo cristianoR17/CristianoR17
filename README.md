@@ -9,8 +9,6 @@
 
 <h2>👨‍💻 Sobre mim</h2>
 
-<h2>👨‍💻 Sobre mim</h2>
-
 <p>
 Profissional com mais de 10 anos de experiência em infraestrutura de TI, com atuação em ambientes críticos e de alta disponibilidade.
 </p>

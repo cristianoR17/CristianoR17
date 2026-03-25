@@ -86,7 +86,7 @@ de ambientes on-premises para a nuvem.
 
 ---
 
-<h2>📫 Contato</h2>
+### 📫 Contato
 
 <p>
 💼 LinkedIn: https://www.linkedin.com/in/cristiano-oliveira-426b0233/<br>

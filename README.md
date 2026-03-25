@@ -64,65 +64,25 @@ de ambientes on-premises para a nuvem.
 
 ---
 
-<h2>📊 Estatísticas</h2>
+### 📊 Estatísticas
 
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  <!-- CARD ESQUERDA -->
-  <div style="flex:1; min-width:300px; background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px; color:#c9d1d9;">
-    
-    <h3 style="color:#58a6ff;">GitHub Stats</h3>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-    <p>⭐ Total de estrelas: 958</p>
-    <p>🟢 Total de commits: 290</p>
-    <p>🔁 Total de PRs: 0</p>
-    <p>⚠️ Total de issues: 0</p>
-
-    <div style="
-      width:100px;
-      height:100px;
-      border-radius:50%;
-      border:8px solid #30363d;
-      border-top:8px solid #58a6ff;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      margin-top:20px;
-      font-size:24px;
-      font-weight:bold;
-      color:#58a6ff;
-    ">
-      B
-    </div>
-
-  </div>
-
-  <!-- CARD DIREITA -->
-  <div style="flex:1; min-width:300px; background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px; color:#c9d1d9;">
-    
-    <h3 style="color:#58a6ff;">Tecnologias</h3>
-
-    <div style="display:flex; height:10px; border-radius:5px; overflow:hidden; margin-bottom:15px;">
-      <div style="width:56%; background:#e34c26;"></div>
-      <div style="width:22%; background:#563d7c;"></div>
-      <div style="width:9%; background:#4F5D95;"></div>
-      <div style="width:6%; background:#f1e05a;"></div>
-      <div style="width:4%; background:#3178c6;"></div>
-    </div>
-
-    <p>🔴 HTML 56%</p>
-    <p>🟣 CSS 22%</p>
-    <p>🔵 PHP 9%</p>
-    <p>🟡 JavaScript 6%</p>
-    <p>🔷 TypeScript 4%</p>
-
-  </div>
-
-</div>
-
----
-
-<h2>🔥 DevOps Mindset</h2>
+</p>
 
 <p>
 ✔ Automação de ponta a ponta<br>

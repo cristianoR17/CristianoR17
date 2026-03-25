@@ -90,9 +90,10 @@ de ambientes on-premises para a nuvem.
 ---
 
 <p>
-📧 Email: seuemail@email.com <br>
-💼 LinkedIn: https://linkedin.com/in/seuusuario
+📧 Email: flanaruto@gmail.com <br>
+💼 LinkedIn: https://linkedin.com/in/cristiano-oliveira-426b0233/
 </p>
+
 <!--
 **cristianoR17/CristianoR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

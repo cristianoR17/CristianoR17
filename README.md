@@ -10,8 +10,8 @@ Sólida experiência na área de infraestrutura em servidores e telecomunicaçõ
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="AWS"
+    title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 

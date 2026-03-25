@@ -1,46 +1,100 @@
 # Cristiano Gonçalves de Oliveira 👋
 
 **`Especialista em infraestrutura`**
+<h1 align="center">👨‍💻 Vitor Oliveira</h1>
+<h3 align="center">DevOps | Cloud Engineer | Telecom Specialist</h3>
 
-Sólida experiência na área de infraestrutura em servidores e telecomunicações em mais de 10 anos de experiência. Implantação de projetos de Centrais de atendimentos para clientes como por exemplo INSS, e voz sobre IP na Caixa Econômica Federal. Atuação na área de nuvens privadas e publicas e com tecnologias DevOps através da implementação de projetos de tecnologias e serviços AWS, Google Cloud Platform, Microsoft Azure e Oracle Cloud com o objetivo de apoiar as empresas em suas jornadas de migração e modernização dos ambientes on-premises para a nuvem
+<p align="center">
+  Especialista em infraestrutura, telecomunicações e cloud com +10 anos de experiência.
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<h2>🚀 Competências</h2>
-
-<p align="left">
-  <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-  <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img align="left" alt="Oracle Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  
-  <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-  
-  <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
-  <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
-  
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="left" alt="Shell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-</p>
-
-<br><br><br>
+<h2>🚀 Sobre mim</h2>
 
 <p>
-<strong>DevOps:</strong> CI/CD, pipelines, automação e integração contínua<br>
-<strong>Cloud:</strong> AWS, Microsoft Azure, Google Cloud, Oracle Cloud<br>
-<strong>Infraestrutura como código:</strong> Terraform, Ansible<br>
-<strong>Containers:</strong> Docker, Kubernetes<br>
-<strong>Linguagens:</strong> Python, PHP, Shell Script<br>
-<strong>Versionamento:</strong> Git<br>
-<strong>Observabilidade:</strong> Monitoramento, logs e métricas<br>
-<strong>Telecom:</strong> Asterisk, Kamailio
+Profissional com sólida experiência em infraestrutura de servidores e telecomunicações, atuando na implantação e gestão de ambientes críticos.
 </p>
+
+<p>
+Experiência com projetos de centrais de atendimento (INSS) e soluções VoIP na Caixa Econômica Federal.
+</p>
+
+<p>
+Atuação em ambientes de nuvem pública e privada, com foco em DevOps, automação e modernização de ambientes on-premises para cloud.
+</p>
+
+---
+
+<h2>⚡ Tech Stack</h2>
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+</p>
+
+---
+
+<h2>🧠 Competências</h2>
+
+<ul>
+  <li><strong>DevOps:</strong> CI/CD, pipelines, automação</li>
+  <li><strong>Cloud:</strong> AWS, Azure, GCP, Oracle Cloud</li>
+  <li><strong>IaC:</strong> Terraform, Ansible</li>
+  <li><strong>Containers:</strong> Docker, Kubernetes</li>
+  <li><strong>Linguagens:</strong> Python, PHP, Shell Script</li>
+  <li><strong>Observabilidade:</strong> Monitoramento, logs, métricas</li>
+  <li><strong>Telecom:</strong> Asterisk, Kamailio</li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<h2>🔥 Destaques</h2>
+
+<ul>
+  <li>+10 anos em infraestrutura e telecom</li>
+  <li>Experiência com grandes ambientes críticos</li>
+  <li>Especialista em migração para cloud</li>
+  <li>Foco em automação e eficiência operacional</li>
+</ul>
+
+---
+
+<h2>📫 Contato</h2>
+
+<p>
+📧 Email: seuemail@email.com <br>
+💼 LinkedIn: https://linkedin.com/in/seuusuario
+</p>
+
 
 <!--
 **cristianoR17/CristianoR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

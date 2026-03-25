@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👩🏻‍💻 Cristiano Gonçalves de Oliveira 👋
+
+**`Especialista em infraestrutura`**
+
+Sólida experiência na área de infraestrutura em servidores e telecomunicações em mais de 10 anos de experiência. Implantação de projetos de Centrais de atendimentos para clientes como por exemplo INSS, e voz sobre IP na Caixa Econômica Federal. Atuação na área de nuvens privadas e publicas e com tecnologias DevOps através da implementação de projetos de tecnologias e serviços AWS, Google Cloud Platform, Microsoft Azure e Oracle Cloud com o objetivo de apoiar as empresas em suas jornadas de migração e modernização dos ambientes on-premises para a nuvem
 
 <!--
 **cristianoR17/CristianoR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

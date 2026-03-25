@@ -9,16 +9,30 @@
 
 <h2>👨‍💻 Sobre mim</h2>
 
+<h2>👨‍💻 Sobre mim</h2>
+
 <p>
-Sólida experiência na área de infraestrutura em servidores e telecomunicações em mais de 10 anos de experiência. Implantação de projetos de Centrais de atendimentos   
+Profissional com mais de 10 anos de experiência em infraestrutura de TI, com atuação em ambientes críticos e de alta disponibilidade.
 </p>
 
 <p>
-Atuação na área de nuvens privadas e publicas e com tecnologias DevOps através da implementação de projetos de tecnologias e serviços AWS, Google Cloud Platform, Microsoft Azure e Oracle Cloud
+Experiência em cloud computing e práticas de DevOps, com foco em automação, escalabilidade e modernização de ambientes on-premises.
 </p>
 
 <p>
-com o objetivo de apoiar as empresas em suas jornadas de migração e modernização dos ambientes on-premises para a nuvem.
+Atuação com provedores de nuvem como AWS, Google Cloud, Microsoft Azure e Oracle Cloud, apoiando processos de migração e transformação digital.
+</p>
+
+<p>
+Experiência prática em migração de ambientes on-premises para AWS utilizando serviços como EC2, S3 e RDS.
+</p>
+
+<p>
+Implementação de arquiteturas escaláveis com DynamoDB e Elastic Beanstalk (EC2, Security Groups, Load Balancer, Target Groups e Auto Scaling).
+</p>
+
+<p>
+Vivência em administração de servidores Linux, com foco em performance, segurança e alta disponibilidade, além de automação e CI/CD.
 </p>
 
 ---

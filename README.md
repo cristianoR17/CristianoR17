@@ -85,6 +85,12 @@ de ambientes on-premises para a nuvem.
 </p>
 
 
+---
+
+<p>
+📧 Email: seuemail@email.com <br>
+💼 LinkedIn: https://linkedin.com/in/seuusuario
+</p>
 
 <!--
 **cristianoR17/CristianoR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

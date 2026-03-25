@@ -10,18 +10,15 @@
 <h2>👨‍💻 Sobre mim</h2>
 
 <p>
-Profissional com mais de 10 anos de experiência em infraestrutura de servidores e telecomunicações,
-atuando em ambientes críticos e de alta disponibilidade.
+Sólida experiência na área de infraestrutura em servidores e telecomunicações em mais de 10 anos de experiência. Implantação de projetos de Centrais de atendimentos   
 </p>
 
 <p>
-Experiência com implantação de centrais de atendimento (INSS) e soluções de voz sobre IP
-na Caixa Econômica Federal.
+Atuação na área de nuvens privadas e publicas e com tecnologias DevOps através da implementação de projetos de tecnologias e serviços AWS, Google Cloud Platform, Microsoft Azure e Oracle Cloud
 </p>
 
 <p>
-Atuação em projetos de cloud e DevOps, apoiando empresas na migração e modernização
-de ambientes on-premises para a nuvem.
+com o objetivo de apoiar as empresas em suas jornadas de migração e modernização dos ambientes on-premises para a nuvem.
 </p>
 
 ---

@@ -64,6 +64,14 @@ de ambientes on-premises para a nuvem.
 
 ---
 
+### 📫 Contato
+
+<p>
+💼 LinkedIn: https://www.linkedin.com/in/cristiano-oliveira-426b0233/<br>
+📧 Email: flanaruto@gmail.com
+</p>
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -85,16 +93,7 @@ de ambientes on-premises para a nuvem.
 </p>
 
 
-
-
 ---
-
-### 📫 Contato
-
-<p>
-💼 LinkedIn: https://www.linkedin.com/in/cristiano-oliveira-426b0233/<br>
-📧 Email: flanaruto@gmail.com
-</p>
 
 <!--
 **cristianoR17/CristianoR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
